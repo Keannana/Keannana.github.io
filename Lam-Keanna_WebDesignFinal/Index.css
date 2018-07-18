@@ -25,6 +25,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    width: 1000px;
 }
 
 p{
@@ -34,8 +35,6 @@ p{
 html{
     background-image:url(BG.jpg);
     padding: 50px;
-    padding-right: 250px;
-    padding-left: 250px;
     margin-left: auto;
     margin-right: auto;
 }
